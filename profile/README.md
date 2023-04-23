@@ -3,4 +3,4 @@
 
 
 # This is a list of our past hackathons and standings (oldest-newest)
-- Penta Hack! - Top 8 Finalists
+- Penta Hack! - Top 8 Finalist
