@@ -3,7 +3,7 @@
 	<h1> Hackathons Participated </h1>
 	<ul>
 	<li>TiDB 2023 - Second Place ($7.5k USD + $1.5k Vercel API Credits)</li>
-	<p>Our team made a product named Quizmify, a platform that generates MCQs and open ended questions using the context of uploaded PDFs and chosen topics. We've used multiple technologies such as langchain, Flask, Vercel, etc to build this.</p>
+	<p>Our team made a product named Quizmify, a platform that generates MCQs and open ended questions using the context of uploaded PDFs and chosen topics. We've used multiple technologies such as langchain, Flask, Vercel, etc to build this. <a href='https://devpost.com/software/quizmefy'>Link to project</a></p>
 	<li>Cloudhacks 2023 - Honourable Mention</li>
 		<p>Our team made a product named Quizmify, which is a platform that uses the power of AI to generate MCQ and open ended questions either using the context of your uploaded PDF or the topic of your choosing and provides statistics based on your performance.</p>
 		<li>DSTA BrainHack SeeTrue 2023 - Top 8 Finalist</li>
