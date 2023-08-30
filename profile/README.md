@@ -2,6 +2,8 @@
 	<p>We are a group of individuals who are passionate about participating in hackathons, with a particular focus on those related to AI. Here is a chronological list of our previous hackathons and results:</p>
 	<h1> Hackathons Participated </h1>
 	<ul>
+	<li>SUTD WTH 2023 Top 6</li>
+	<p>Our team made a product named Coursemefy, a platform that can generate courses using the power of AI just by taking a main topic, and a few sub topics. The courses contain a youtube video explaining the subtopic, a few questions for the user to test their knowledge and a mindmap of the subtopic.</p>
 	<li>TiDB 2023 - Second Place ($7.5k USD + $1.5k Vercel API Credits)</li>
 	<p>Our team made a product named Quizmify, a platform that generates MCQs and open ended questions using the context of uploaded PDFs and chosen topics. We've used multiple technologies such as langchain, Flask, Vercel, etc to build this. <a href='https://devpost.com/software/quizmefy'>Link to project</a></p>
 	<li>Cloudhacks 2023 - Honourable Mention</li>
