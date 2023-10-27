@@ -17,5 +17,22 @@
 	</p>
 		<li>Penta Hack! - Top 8 Finalist</li>
 			<p>Our team was one of the top 8 finalists in the Penta Hackathon. During the event, we worked to improve the writing capabilities of an AI language model, utilizing cutting-edge machine learning techniques to achieve our goal. We were thrilled to have made it to the finals and were proud of the hard work and dedication we put into the project.</p>
+		<ul>
+  <li>
+    <a href="#hacknroll">Hack&Roll 2023 @ NUS Tembusu</a>
+  </li>
+    <p>
+      Project: Digital Budget Tracking App (BudgetBuddy)<br>
+      Description: In this prestigious hackathon, our team created BudgetBuddy, a cutting-edge Digital Budget Tracking App. This application seamlessly integrates with your email to extract and categorize receipts. It then provides you with detailed insights into your spending habits and helps you set and manage your budget more effectively. BudgetBuddy streamlines financial planning by offering intuitive tools for expense tracking, financial goal setting, and smart financial recommendations.
+    </p>
+  <li>
+    <a href="#spai-hackathon">SPAI Hackathon: AI & CV - 3rd Place</a>
+  </li>
+    <p>
+      Project: RecycleRush - Computer Vision Web App<br>
+      Description: At the SPAI Hackathon, we proudly clinched 3rd place with our revolutionary project, RecycleRush. This innovative Computer Vision Web App transforms the way users interact with recycling. By utilizing advanced computer vision technology, RecycleRush gamifies recycling by identifying and rewarding environmentally responsible actions. Users can simply snap a photo of their recyclables, and RecycleRush provides instant feedback, tracks their eco-friendly progress, and offers incentives for proper recycling. Join us in making the world a greener place, one recycling bin at a time!
+    </p>
+</ul>
+
 	</ul>
 	<p>We're excited to continue our hackathon journey and tackle new challenges in the field of AI!</p>
