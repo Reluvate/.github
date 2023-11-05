@@ -2,6 +2,9 @@
 	<p>We are a group of 4 uniquely different individuals who share the same vision and passion for innovation.</p>
 	<h1> Hackathons Participated (Chronological order) </h1>
 	<ul>
+	<li>RedShift Hackathon - </li>
+	<li>Docker Hackathon - </li>
+	<li>CodeGeist Hackthon 2023 - </li>
 	<li>The Batey Hackathon 2023 - Gold</li>
 	<li>SUTD WTH 2023 Top 6</li>
 	<p>Our team made a product named Coursemefy, a platform that can generate courses using the power of AI just by taking a main topic, and a few sub topics. The courses contain a youtube video explaining the subtopic, a few questions for the user to test their knowledge and a mindmap of the subtopic.</p>
