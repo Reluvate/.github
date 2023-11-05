@@ -20,6 +20,8 @@
 	<p>
 		<a href='https://github.com/reluvate/catch-me-up'>Link to project</a>
 	</p>
+		<li>World Quant Braint Hack - World Top 20% </li>
+		<p>Made it to the top 20% globally in developing financial Alphas using WorldQuant's Language.</p>
 		<li>Penta Hack! - Top 8 Finalist</li>
 			<p>Our team was one of the top 8 finalists in the Penta Hackathon. During the event, we worked to improve the writing capabilities of an AI language model, utilizing cutting-edge machine learning techniques to achieve our goal. We were thrilled to have made it to the finals and were proud of the hard work and dedication we put into the project.</p>
   <li>
