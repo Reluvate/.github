@@ -3,8 +3,9 @@
 	<h1> Hackathons Participated (Chronological order) </h1>
 	<ul>
 	<li>RedShift Hackathon - </li>
-	<li>Docker Hackathon - </li>
+	<p>We created a tool named Dionysus, a solution that connects seamlessly with Notion's API. With Dionysus, we've simplified the process of creating documentation. Just input a GitHub repository link, and our cutting-edge AI technology will instantly generate comprehensive documentation. By analyzing the commit history and understanding the intricacies of various functions, we empower engineers to make informed inquiries about the codebase.</p>
 	<li>CodeGeist Hackthon 2023 - </li>
+	<p> Using Confluence's API, we've developed a powerful tool called CodeFluence that automates the generation of documentation while seamlessly incorporating elements from Confluence's Custom UI Kit.</p>
 	<li>The Batey Hackathon 2023 - Gold</li>
 	<li>SUTD WTH 2023 Top 6</li>
 	<p>Our team made a product named Coursemefy, a platform that can generate courses using the power of AI just by taking a main topic, and a few sub topics. The courses contain a youtube video explaining the subtopic, a few questions for the user to test their knowledge and a mindmap of the subtopic.</p>
