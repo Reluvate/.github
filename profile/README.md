@@ -7,6 +7,7 @@
 	<li>CodeGeist Hackthon 2023 - </li>
 	<p> Using Confluence's API, we've developed a powerful tool called CodeFluence that automates the generation of documentation while seamlessly incorporating elements from Confluence's Custom UI Kit.</p>
 	<li>The Batey Hackathon 2023 - Gold</li>
+	<p></p>
 	<li>SUTD WTH 2023 Top 6</li>
 	<p>Our team made a product named Coursemefy, a platform that can generate courses using the power of AI just by taking a main topic, and a few sub topics. The courses contain a youtube video explaining the subtopic, a few questions for the user to test their knowledge and a mindmap of the subtopic.</p>
 	<li>TiDB 2023 - Second Place ($7.5k USD + $1.5k Vercel API Credits)</li>
