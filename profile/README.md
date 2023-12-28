@@ -4,8 +4,6 @@
 	<ul>
 	<li>Docker AI/ML Hackathon - 3rd Place (USD3,000 Cash + Docker swag)</li>
 	<p>We created a tool named Dionysus, a solution that connects seamlessly with Notion's API. With Dionysus, we've simplified the process of creating documentation. Just input a GitHub repository link, and our cutting-edge AI technology will instantly generate comprehensive documentation. By analyzing the commit history and understanding the intricacies of various functions, we empower engineers to make informed inquiries about the codebase.</p>
-	<li>CodeGeist Hackthon 2023 - </li>
-	<p> Using Confluence's API, we've developed a powerful tool called CodeFluence that automates the generation of documentation while seamlessly incorporating elements from Confluence's Custom UI Kit.</p>
 	<li>The Batey Hackathon 2023 - Gold</li>
 	<p></p>
 	<li>SUTD WTH 2023 Top 6</li>
